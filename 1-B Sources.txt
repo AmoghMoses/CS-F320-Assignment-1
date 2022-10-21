@@ -1,0 +1,13 @@
+Data split and read:
+https://builtin.com/data-science/train-test-split
+https://www.geeksforgeeks.org/polynomial-regression-from-scratch-using-python/
+https://towardsdatascience.com/polynomial-regression-in-python-b69ab7df6105
+https://www.ijser.org/researchpaper/Multivariate-Polynomial-Regression-in-Data-Mining-Methodology.pdf
+https://satishgunjal.com/multivariate_lr/
+https://towardsdatascience.com/implementing-gradient-descent-in-python-from-scratch-760a8556c31f
+https://realpython.com/gradient-descent-algorithm-python/#:~:text=Stochastic%20gradient%20descent%20is%20an,an%20inexact%20but%20powerful%20technique.
+https://jakevdp.github.io/PythonDataScienceHandbook/04.12-three-dimensional-plotting.html
+https://numpy.org/doc/stable/reference/generated/numpy.zeros.html
+https://www.datasciencelearner.com/convert-row-vector-column-vector-numpy-methods/#:~:text=Method%201%20%3A%20Use%20reshape(),is%20the%20number%20of%20rows.
+https://sparkbyexamples.com/numpy/numpy-array-mean-function/#:~:text=Python%20NumPy%20array%20mean()%20function%20is%20used%20to%20compute,the%20total%20number%20of%20values.
+https://towardsdatascience.com/an-overview-of-the-gradient-descent-algorithm-8645c9e4de1e#:~:text=The%20actual%20stop%20point%20for,when%20step%20size%20approaches%20zero.
