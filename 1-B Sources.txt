@@ -1,5 +1,7 @@
 Data split and read:
 https://builtin.com/data-science/train-test-split
+
+Regression reference:
 https://www.geeksforgeeks.org/polynomial-regression-from-scratch-using-python/
 https://towardsdatascience.com/polynomial-regression-in-python-b69ab7df6105
 https://www.ijser.org/researchpaper/Multivariate-Polynomial-Regression-in-Data-Mining-Methodology.pdf
